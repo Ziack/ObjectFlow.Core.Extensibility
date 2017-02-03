@@ -1,0 +1,14 @@
+C:\TFS1\Colab\aLibSrc\External\ObjectFlow.Core.Extensibility\bin\ObjectFlow.Core.Extensibility.dll
+C:\TFS1\Colab\aLibSrc\External\ObjectFlow.Core.Extensibility\bin\ObjectFlow.Core.Extensibility.pdb
+C:\TFS1\Colab\aLibSrc\External\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.csprojResolveAssemblyReference.cache
+C:\TFS1\Colab\aLibSrc\External\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.dll
+C:\TFS1\Colab\aLibSrc\External\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.pdb
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.dll
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\obj\Debug\ObjectFlow.Core.Extensibility.pdb
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\ObjectFlow.Core.Extensibility.dll
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\ObjectFlow.Core.Extensibility.pdb
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\Newtonsoft.Json.dll
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\objectflow.core.dll
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\Rainbow.Exceptional.dll
+C:\Users\jgarcia\Documents\Github\ObjectFlow.Core.Extensibility\bin\Newtonsoft.Json.xml
