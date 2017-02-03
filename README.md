@@ -37,3 +37,23 @@ Objectflow provides developers with a straight-forward way of separating busines
 ]
 
 ```
+
+```csharp
+
+public class AnotherScope : IOperationScope<IssueCommand>
+    {
+        public string Name
+        {
+            get { return "AnotherScope"; }
+        }
+
+        public IssueCommand Execute(IOperation<IssueCommand> operation, IssueCommand data)
+        {
+            Task.Run(() =>
+            {
+                operation.Execute(data);
+            });            
+        }
+    }
+    
+```
