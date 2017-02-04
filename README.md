@@ -40,20 +40,17 @@ Objectflow provides developers with a straight-forward way of separating busines
 
 ```csharp
 
-public class AnotherScope : IOperationScope<IssueCommand>
-    {
-        public string Name
-        {
-            get { return "AnotherScope"; }
-        }
+static void Main(string[] args)
+{
+    var doubleSpace = new DoubleSpace();
+    var rawDefinition = SomeMethodToJSONLoadDefinition();
+    var definition = JsonConvert.DeserializeObject<WorkflowDefinition<Colour>>(rawDefinition)
+    
+    var result = Workflow<Colour>.FromDefinition(definition)
+                    .Start(new Colour("Green"));
 
-        public IssueCommand Execute(IOperation<IssueCommand> operation, IssueCommand data)
-        {
-            Task.Run(() =>
-            {
-                operation.Execute(data);
-            });            
-        }
-    }
+    Console.WriteLine("\r\nPress any key");
+    Console.ReadKey();
+}
     
 ```
