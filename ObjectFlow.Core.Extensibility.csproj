@@ -53,6 +53,8 @@
   <ItemGroup>
     <Compile Include="Exceptions\InicializacionDeAccionException.cs" />
     <Compile Include="Extensions.cs" />
+    <Compile Include="Extensions\FromClassNameConverter.cs" />
+    <Compile Include="Extensions\StringExtension.cs" />
     <Compile Include="Framework\ActionBase.cs" />
     <Compile Include="Framework\ActionEventArgs.cs" />
     <Compile Include="Framework\Context.cs" />
