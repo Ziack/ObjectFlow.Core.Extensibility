@@ -1,9 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectFlow.Core.Extensibility", "ObjectFlow.Core.Extensibility.csproj", "{A8A3CA0D-8F39-4C98-9A44-BC40CFB02DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectFlow.Core.Extensibility.Sample", "Sample\ObjectFlow.Core.Extensibility.Sample.csproj", "{7926D5FC-A152-4077-AF33-D9E5E31ADEC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A8A3CA0D-8F39-4C98-9A44-BC40CFB02DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A3CA0D-8F39-4C98-9A44-BC40CFB02DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A3CA0D-8F39-4C98-9A44-BC40CFB02DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7926D5FC-A152-4077-AF33-D9E5E31ADEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7926D5FC-A152-4077-AF33-D9E5E31ADEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7926D5FC-A152-4077-AF33-D9E5E31ADEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7926D5FC-A152-4077-AF33-D9E5E31ADEC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
